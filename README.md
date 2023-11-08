@@ -25,9 +25,9 @@ Apply metrics to the dataset, and predict the output.
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
-Developed by: ISHAQ HUSSAIN A
+Developed by: ARSHAD AHMED M
 
-Register Number: 212221040059
+Register Number: 212222040014
 
 */
 ```python
@@ -62,8 +62,10 @@ dt.predict([[5,6]])
 ![](./o2.png)
 
 ![](./o3.png)
+
 ### Encoded Dataset:
 ![](./o4.png)
+
 ### MSE Value:
 ![](./o5.png)
 
