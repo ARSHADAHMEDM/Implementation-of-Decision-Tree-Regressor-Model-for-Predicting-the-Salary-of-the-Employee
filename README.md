@@ -68,6 +68,8 @@ dt.predict([[5,6]])
 ![](./o5.png)
 
 
+
+
 ### R Squared Value:
 ![](./o6.png)
 ### Data Prediction:
