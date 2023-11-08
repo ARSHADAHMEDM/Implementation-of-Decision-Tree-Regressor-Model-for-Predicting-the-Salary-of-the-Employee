@@ -55,6 +55,7 @@ r2
 dt.predict([[5,6]])
 ```
 # Output:
+
 ### Initial Dataset:
 ![](./o1.png)
 ### Data Info:
