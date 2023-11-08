@@ -66,6 +66,8 @@ dt.predict([[5,6]])
 ![](./o4.png)
 ### MSE Value:
 ![](./o5.png)
+
+
 ### R Squared Value:
 ![](./o6.png)
 ### Data Prediction:
